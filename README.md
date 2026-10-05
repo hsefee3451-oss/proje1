@@ -1,7 +1,7 @@
 # proje1
 Markdown nedir?
-:Düz metinlerin,başlığa,listeye dönüşmesine sağlayan işaretleme dilidir.
+:İşaretleme, yazılarımızı düz metin olarak yazmamıza imkan veren işaretleme/biçimlendirme dilidir ( biçimlendirme dili ). Markdown'ın temel amacı, içeriğimizi kolayca arşivlemek ve düz metin içeriğini bile ayrıntıların okunmasını sağlamaktır.
 README.md dosyası nedir? ne işe yarar?
-:Bir projenin ana sayfasında yer alır ve projeyi tanıtır. bir nevi kılavuz dosya denilebilir.Nasıl çalışacağını kurulacağına yardımcı olur.
+:bir yazılım projesinin ana dizininde bulunan, projenin ne olduğunu, nasıl kurulacağını ve nasıl kullanılacağını anlatan Markdown formatında bir kılavuz metin dosyasıdır.GitHub, GitLab veya Bitbucket gibi platformlarda projenizin ana sayfasına giren kişilerin ilk gördüğü belgedir.
 Proje sürümleri nedir?Nasıl belirlenir?
-:Yazılım projelerinde güncellemeleri  takip etmek için  kullanılan sürüm numaralandırma sistemleridir.Genellikle Anlamlı sürümleme ile belirlenir.
+:bir yazılımın veya ürünün geliştirme sürecindeki farklı aşamalarını, yapılan güncellemeleri ve değişiklikleri takip etmek için kullanılan benzersiz etiketler veya adlandırmalardır. Sürümler, hem geliştirici ekibin ürünün geçmişini takip etmesini sağlar hem de kullanıcıların hangi özellikleri veya hata düzeltmelerini kullandıklarını anlamalarına yardımcı olur.
